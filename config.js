@@ -4,7 +4,8 @@ module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
   title: "Blog by Bijan Hoomand",
-  subtitle: "Book Junkie, Foodie, Computer Addict, OSS enthusiast",
+  subtitle:
+    "Book Junkie, Foodie, Computer Addict, OSS enthusiast, Husband, Son and a learner above all",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
@@ -23,7 +24,8 @@ module.exports = {
   author: {
     name: "Bijan Hoomand",
     photo: "/photo.jpg",
-    bio: "Book Junkie, Foodie, Computer Addict",
+    bio:
+      "Book Junkie, Foodie, Computer Addict, OSS enthusiast, Husband, Son and a learner above all",
     contacts: {
       email: "hoomand@gmail.com",
       twitter: "sirbijan",
