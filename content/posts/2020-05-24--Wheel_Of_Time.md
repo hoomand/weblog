@@ -35,3 +35,7 @@ But if I want to point out some of my take aways and lines of thought while I am
 I am so happy that I listened to my friend Joshua a year ago and decided to give the first book of WoT a shot, I couldn't put it down afterwards, well, till I finished it tonight.
 
 One word of advice: take the depression that comes after finishing the books seriously, it has never hit me so hard after finishing a series of books and frankly I don't know what I'm going to do. I might come here and update as what I did to overcome the depression that I felt after finishing the long series; for now I'm just [seeking advice](https://www.reddit.com/r/WoT/comments/gpnxe5/how_to_deal_with_depression_after_finishing_the/?).
+
+**Update**
+
+Thanks to all heartfelt comments and suggestions in both my [twitter post](https://twitter.com/sirbijan/status/1264497887079051264) and [reddit WoT sub](https://www.reddit.com/r/WoT/comments/gpnxe5/how_to_deal_with_depression_after_finishing_the/?), I am feeling much better now and decided to read [New Spring](https://www.goodreads.com/book/show/187065.New_Spring) for the time being and then continue with a re-read of the entire series! I might try the audio books, though I am more a reader than listener 🤓
