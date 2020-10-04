@@ -9,7 +9,7 @@ module.exports = {
   copyright: "© All rights reserved.",
   disqusShortname: "hoomand",
   postsPerPage: 4,
-  googleAnalyticsId: "",
+  googleAnalyticsId: "UA-179595532-1",
   useKatex: false,
   menu: [
     {
