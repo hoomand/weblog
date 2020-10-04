@@ -7,7 +7,7 @@ module.exports = {
   subtitle:
     "Book Junkie, Foodie, Computer Addict, OSS enthusiast, Husband, Son and a learner above all",
   copyright: "© All rights reserved.",
-  disqusShortname: "",
+  disqusShortname: "hoomand",
   postsPerPage: 4,
   googleAnalyticsId: "",
   useKatex: false,
