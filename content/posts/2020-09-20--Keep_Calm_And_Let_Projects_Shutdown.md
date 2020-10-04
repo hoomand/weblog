@@ -7,8 +7,13 @@ slug: "mental-preparation-to-let-your-project-go"
 category: "Work"
 tags:
   - "work"
+  - "detachment"
+  - "process"
 description: "Dealing with the pain of your beloved project shutdown"
+socialImage: "/media/let_go.jpg"
 ---
+
+![let_go.jpg](/media/let_go.jpg)
 
 **Context**
 
