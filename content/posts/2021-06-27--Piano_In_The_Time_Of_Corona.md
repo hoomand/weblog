@@ -16,9 +16,9 @@ socialImage: "/media/let_go.jpg"
 
 If you've been following me here (congratz! with one post every 9 month, you are a true fan), you should have noticed that my [previous post](/posts/mental-preparation-to-let-your-project-go) was quite grim. With the start of [Corona virus pandemic](https://www.who.int/health-topics/coronavirus#tab=tab_1) and the fact that my project was almost shutdown, I suddenly found myself with an extra hour a day.
 
-I had Piano training for about a year back in highschool and always wanted to pick up where I left off. Listening to the Piano always brought back memories of playing it, but I never had time. This time I thought let's do it!
+I had Piano training for about a year back in highschool and always wanted to pick up where I had left off. Listening to the Piano always brought back memories of playing it, but I never had time. This time I thought let's do it!
 
-After some research, I found a good piano teacher who was specialized in working with adults here in Sydney. All I needed was a Piano that I could find online and I had officially started my lessons again!
+After some research, I found a good piano teacher who was specialized in working with adults here in Sydney. All I needed was a Piano that I could find and order online and voila! I had officially started my lessons again!
 
 I decided to record my progress over time and that's how [Piano Escape](https://www.youtube.com/channel/UCtg1KNM6GkZtMStdayWtaUA) youtube channel was created!
 
@@ -34,6 +34,6 @@ And my last masterpiece as of this writing,  Plaisir d'Amour:
 
 `youtube: https://www.youtube.com/watch?v=pDngnRsWWMU`
 
-When I started in 2020/10/15, about 8 month ago as of this writing, I couldn't even play 5 keys in order properly; and today I can play some mini pieces. It's still day 1 and I am sure I play worse than a kid still, but I am happy with my progress, just one hour a day.
+When I started in 2020/10/15, about 8 month ago as of this writing, I couldn't even play 5 keys in order properly; and today I can play some mini pieces. It's still day one and I am sure that I play worse than a kid, but I am happy with my progress, just one hour a day.
 
-I'll continue my practice as I found playing piano a great hobby that contributes to my feeling of self worth and life balance. Hopefully you will see a lot more progress and more interesting pieces on my channel [Piano Escape](https://www.youtube.com/channel/UCtg1KNM6GkZtMStdayWtaUA).
+I'll continue my practice as I found playing piano a great hobby that contributes to my feeling of self worth and inner peace. Hopefully you will see a lot more progress and more interesting pieces on my channel [Piano Escape](https://www.youtube.com/channel/UCtg1KNM6GkZtMStdayWtaUA) as I learn more.
